@@ -1,2 +1,2 @@
-# rajputprashantS.github.io
-Prashant Singh Portfolio
+# ridhima.github.io
+Ridhima Portfolio
